@@ -9,7 +9,7 @@ public class Inmueble {
         private String precio;
         private String metros;
         private String habitaciones;
-        private String Año;
+        private String Anyo;
 
         public String getNombre() {
                 return nombre;
